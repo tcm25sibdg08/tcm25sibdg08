@@ -34,3 +34,42 @@
 | Maria Santos | Inception | 2 |
 | Pedro Oliveira | Inception | 1 |
 | João Silva | Dune: Part Two | 5 |
+
+
+<!-- Caixa de Pesquisa -->
+<input type="text" id="inputPesquisa" onkeyup="pesquisarFilme()" placeholder="Pesquisar por título ou género...">
+
+<table id="tabelaFilmes">
+  <tr class="header">
+    <th>Filme</th>
+    <th>Género</th>
+    <th>Sala</th>
+  </tr>
+  <!-- Os dados aqui viriam da sua tabela 'Filme' e 'Sessao' -->
+  <tr>
+    <td>Inception</td>
+    <td>Sci-Fi</td>
+    <td>Sala IMAX</td>
+  </tr>
+  <tr>
+    <td>Toy Story</td>
+    <td>Animação</td>
+    <td>Sala 3</td>
+  </tr>
+</table>
+
+<script>
+function pesquisarFilme() {
+  var input = document.getElementById("inputPesquisa").value.toUpperCase();
+  var table = document.getElementById("tabelaFilmes");
+  var tr = table.getElementsByTagName("tr");
+
+  for (var i = 1; i < tr.length; i++) {
+    var td = tr[i].getElementsByTagName("td"); // Coluna do Título
+    if (td) {
+      var texto = td.textContent || td.innerText;
+      tr[i].style.display = texto.toUpperCase().indexOf(input) > -1 ? "" : "none";
+    }
+  }
+}
+</script>
