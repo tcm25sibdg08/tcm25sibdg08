@@ -9,13 +9,10 @@
 :[SQL](rebd04.md)  
 
 
-## Group _xx_
-
-_Don't forget to add the group elements_
+## GrupO _G08_
 
 * Sara Cantarelo Amaral [@a046744Sara](https://github.com/orgs/tcm25sibdg08/people/a046744Sara)
 
 ---
-_You can add a footer menu for navigation_ 
 < Previous | [^ Main](/../../) | [Next >](rebd00.md)
 :--- | :---: | ---: 
