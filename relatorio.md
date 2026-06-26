@@ -9,7 +9,7 @@
 :[SQL](rebd04.md)  
 
 
-## GrupO _G08_
+## Grupo _G08_
 
 * Sara Cantarelo Amaral [@a046744Sara](https://github.com/orgs/tcm25sibdg08/people/a046744Sara)
 
