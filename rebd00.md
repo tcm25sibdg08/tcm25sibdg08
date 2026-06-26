@@ -31,5 +31,5 @@ Regras: Cada tabela tem de ter pelo menos 30 exemplos de dados para testar.
 
 Tecnologia: Vais usar Node.js para a lógica, MySQL para guardar os dados e criar um site (interface gráfica) para as pessoas interagirem.
 
-< [Previous] (relatorio.md) | [^ Main](/../../) | [Next >](rebd01.md)
+[< Previous](relatorio.md) | [^ Main](/../../) | [Next >](rebd01.md)
 :--- | :---: | ---: 
