@@ -14,5 +14,5 @@
 * Sara Cantarelo Amaral [@a046744Sara](https://github.com/orgs/tcm25sibdg08/people/a046744Sara)
 
 ---
-< Previous | [^ Main](/../../) | [Next >](rebd00.md)
+[< Previous](esquema.md) | [^ Main](/../../) | [Next >](rebd00.md)
 :--- | :---: | ---: 
