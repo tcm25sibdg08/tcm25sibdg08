@@ -45,5 +45,5 @@ correspondeA (BILHETE, SESSAO)
 Cada bilhete pertence a uma sessão
 
 ---
-[< Previous](requisitos.md) | [^ Main](/../../) | [Next] (relatorio.md) >
+[< Previous](requisitos.md) | [^ Main](/../../) | [Next >](relatorio.md) 
 :--- | :---: | ---: 
