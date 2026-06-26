@@ -18,5 +18,5 @@ Bilhete (id_bilhete, quantidade, id_cliente, id_sessao),
 
 (Nota: id_cliente e id_sessao são chaves estrangeiras que registam quem comprou e para que sessão.)
 
-< [Previous] (rebd01.md) | [^ Main](/../../) | [Next >](rebd03.md)
+[< Previous](rebd01.md) | [^ Main](/../../) | [Next >](rebd03.md)
 :--- | :---: | ---: 

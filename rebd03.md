@@ -133,5 +133,5 @@ Vista obrigatória que calcula o nível de ocupação da sala, cruzando a capaci
 | ocupados | Lugares vendidos | SUM(Bilhete.quantidade) |
 | disponiveis | Lugares livres | (Capacidade - Ocupados) |
 
-< [Previous](rebd02.md) | [^ Main](/../../) | [Next >](rebd04.md)
+[< Previous](rebd02.md) | [^ Main](/../../) | [Next >](rebd04.md)
 :--- | :---: | ---: 

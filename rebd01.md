@@ -22,5 +22,5 @@ Dependência Funcional de Sessão: Uma sessão tem de estar obrigatoriamente lig
 Consistência de Bilheteira: Não é permitida a venda de bilhetes com quantidade inferior a 1
 .
 
-< [Previous] (rebd00.md) | [^ Main](/../../) | [Next >](rebd02.md)
+[< Previous](rebd00.md) | [^ Main](/../../) | [Next >](rebd02.md)
 :--- | :---: | ---: 
